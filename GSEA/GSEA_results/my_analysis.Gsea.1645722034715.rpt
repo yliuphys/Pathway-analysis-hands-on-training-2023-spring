@@ -1,0 +1,33 @@
+producer_class	xtools.gsea.Gsea
+producer_timestamp	1645722034715
+param	zip_report	false
+param	num	100
+param	scoring_scheme	weighted
+param	norm	meandiv
+param	out	C:\Users\yong.liu\gsea_home\output\feb24
+param	mode	Max_probe
+param	include_only_symbols	true
+param	set_max	500
+param	gmx	ftp.broadinstitute.org://pub/gsea/gene_sets/h.all.v7.5.1.symbols.gmt
+param	plot_top_x	20
+param	nperm	1000
+param	order	descending
+param	rnd_seed	timestamp
+param	rpt_label	my_analysis
+param	set_min	15
+param	res	S:\Yong\Student\Hands-on training on pathway analysis\GSEA\GenePattern results\tcga_raw_counts.Tumor.vs.Normal.normalized_counts.gct
+param	create_svgs	false
+param	cls	S:\Yong\Student\Hands-on training on pathway analysis\GSEA\tcga_sample.cls#Tumor_versus_Normal
+param	sort	real
+param	create_gcts	false
+param	help	false
+param	save_rnd_lists	false
+param	median	false
+param	metric	Signal2Noise
+param	make_sets	true
+param	rnd_type	no_balance
+param	gui	false
+param	permute	gene_set
+param	collapse	No_Collapse
+
+file	C:\Users\yong.liu\gsea_home\output\feb24\my_analysis.Gsea.1645722034715\index.html
