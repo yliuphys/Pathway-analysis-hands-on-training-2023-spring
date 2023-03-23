@@ -1,4 +1,11 @@
 # Pathway-analysis-hands-on-training-2023-spring
+
+Please make sure to:
+
+1): create a GenePattern account under https://cloud.genepattern.org/gp/pages/login.jsf. It is free.
+
+2): Download and install free GSEA software on your own computer: http://www.gsea-msigdb.org/gsea/login.jsp. 
+
 Hands on training Steps:
 1): Start from file Pathway-analysis-hands-on-training-2023-spring/TCGA_source_data/ tcga_raw_counts.txt. This file can also been downloaded from https://raw.githubusercontent.com/sheffield-bioinformatics-core/rna-seq-in-galaxy/gh-pages/tcga_raw_counts.csv
 2): organize the tcga_raw_counts.txt and create the two files under Pathway-analysis-hands-on-training-2023-spring/GenePattern/Input_files/
